@@ -1,23 +1,24 @@
-.backdrop,
-.game-settings-container {
+.backdrop {
   position: absolute;
   top: 0;
   left: 0;
   width: 100%;
   min-height: 115%;
+  background-color: var(--secondary-light);
+  opacity: 90%;
 }
 
 .game-settings-container {
+  position: absolute;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   overflow: hidden;
-}
-
-.backdrop {
-  background-color: var(--secondary-light);
-  opacity: 90%;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 115%;
 }
 
 .game-settings-container form {
