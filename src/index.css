@@ -8,14 +8,22 @@
 }
 
 :root {
-  --primary-color: #fff;
-  --secondary-color: #eee;
-  --primary-highlight: #ccc;
-  --secondary-highlight: #bbb;
-  --border-color: #000;
+  --primary: #eee;
+  --primary-light: #fff;
+  --primary-dark: #ddd;
+  --secondary: #bbb;
+  --secondary-light: #e5e5e5;
+  --secondary-dark: #aaa;
+  --border: #000;
+  --text: #000;
+  --window-header: #bbb;
+  --header-text: #000;
+  --icon-highlight: skyblue;
+  --icon-highlight-text: #000;
   --scale-hover: scale(0.99);
   --scale-active: scale(0.97);
   --transition: all ease-out 150ms;
+  --backdrop: rgba(229, 229, 229, 0.9);
 }
 
 body {

@@ -13,6 +13,7 @@
   --header-text: #000;
   --icon-highlight: skyblue;
   --icon-highlight-text: #000;
+  --backdrop: rgba(229, 229, 229, 0.9);
 }
 
 .Dark {
@@ -28,6 +29,7 @@
   --header-text: #fff;
   --icon-highlight: skyblue;
   --icon-highlight-text: #333;
+  --backdrop: rgba(85, 85, 85, 0.9);
 }
 
 .Memozrnnost {
@@ -43,6 +45,7 @@
   --header-text: #3a0055;
   --icon-highlight: #e75ab6;
   --icon-highlight-text: #3a0055;
+  --backdrop: rgba(252, 141, 213, 0.9);
 }
 
 .Classic {
@@ -58,6 +61,7 @@
   --header-text: #fff;
   --icon-highlight: #06007f;
   --icon-highlight-text: #fff;
+  --backdrop: rgba(206, 206, 206, 0.9);
 }
 
 .section {

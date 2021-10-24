@@ -4,8 +4,7 @@
   left: 0;
   width: 100%;
   min-height: 115%;
-  background-color: var(--secondary-light);
-  opacity: 90%;
+  background-color: var(--backdrop);
 }
 
 .game-settings-container {
