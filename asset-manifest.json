@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PortfolioWebsite/static/css/main.a604d747.chunk.css",
+    "main.css": "/PortfolioWebsite/static/css/main.3de74f77.chunk.css",
     "main.js": "/PortfolioWebsite/static/js/main.6a8cce97.chunk.js",
     "main.js.map": "/PortfolioWebsite/static/js/main.6a8cce97.chunk.js.map",
     "runtime-main.js": "/PortfolioWebsite/static/js/runtime-main.095de72d.js",
@@ -8,7 +8,7 @@
     "static/js/2.f3efab3b.chunk.js": "/PortfolioWebsite/static/js/2.f3efab3b.chunk.js",
     "static/js/2.f3efab3b.chunk.js.map": "/PortfolioWebsite/static/js/2.f3efab3b.chunk.js.map",
     "index.html": "/PortfolioWebsite/index.html",
-    "static/css/main.a604d747.chunk.css.map": "/PortfolioWebsite/static/css/main.a604d747.chunk.css.map",
+    "static/css/main.3de74f77.chunk.css.map": "/PortfolioWebsite/static/css/main.3de74f77.chunk.css.map",
     "static/js/2.f3efab3b.chunk.js.LICENSE.txt": "/PortfolioWebsite/static/js/2.f3efab3b.chunk.js.LICENSE.txt",
     "static/media/github_memozrnnost.17e4f325.png": "/PortfolioWebsite/static/media/github_memozrnnost.17e4f325.png",
     "static/media/gurmet_web.70304c19.png": "/PortfolioWebsite/static/media/gurmet_web.70304c19.png",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.095de72d.js",
     "static/js/2.f3efab3b.chunk.js",
-    "static/css/main.a604d747.chunk.css",
+    "static/css/main.3de74f77.chunk.css",
     "static/js/main.6a8cce97.chunk.js"
   ]
 }
