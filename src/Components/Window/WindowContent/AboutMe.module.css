@@ -1,0 +1,27 @@
+.pic-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.pic-container img {
+  width: 150px;
+  height: 150px;
+  margin: 5px;
+}
+
+.about-me-container p {
+  margin-bottom: 10px;
+}
+
+.about-me-container h4 {
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.about-me-container ul {
+  list-style: none;
+  margin-bottom: 15px;
+}

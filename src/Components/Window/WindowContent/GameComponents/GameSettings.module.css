@@ -1,0 +1,56 @@
+.backdrop,
+.game-settings-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  min-height: 115%;
+}
+
+.game-settings-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+}
+
+.backdrop {
+  background-color: var(--secondary-light);
+  opacity: 90%;
+}
+
+.game-settings-container form {
+  z-index: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.game-settings-container span {
+  margin-bottom: 5px;
+}
+
+.game-settings-container input {
+  margin-right: 5px;
+  border: 1px solid var(--border);
+}
+
+.game-settings-container button {
+  padding: 5px;
+  min-width: 50%;
+  margin-top: 10px;
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  background-color: var(--secondary-dark);
+  color: var(--text);
+  transition: var(--transition);
+}
+
+.game-settings-container button:hover {
+  transform: var(--scale-hover);
+}
+
+.game-settings-container button:hover:active {
+  transform: var(--scale-active);
+}

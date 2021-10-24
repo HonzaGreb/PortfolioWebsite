@@ -1,0 +1,33 @@
+.works-container {
+  text-align: center;
+}
+
+.works-container h3 {
+  margin-bottom: 5px;
+}
+
+.filter-options-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  transition: var(--transition);
+}
+
+.filter-options-container button {
+  padding: 10px 6px;
+  margin: 5px;
+  border: 1px solid var(--border);
+  transition: var(--transition);
+  border-radius: 5px;
+}
+
+.filter-options-container button:hover {
+  background-color: var(--secondary-light);
+  color: var(--text);
+  cursor: pointer;
+}
+
+.selected-filter {
+  background-color: var(--secondary);
+  color: var(--text);
+}

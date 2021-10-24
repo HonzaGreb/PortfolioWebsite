@@ -1,0 +1,29 @@
+.contact-container div {
+  max-width: 350px;
+  margin-bottom: 20px;
+}
+
+.socials-container span {
+  width: 130px;
+  height: 130px;
+  margin: 5px;
+  background-color: lightgrey;
+  border-radius: 15px;
+}
+
+.contact-container {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.contact-container h4 {
+  margin-bottom: 5px;
+}
+
+.contact-container p {
+  margin-bottom: 20px;
+}
